@@ -1,4 +1,4 @@
-## Olympic_data_analysis_using_PowerBi
+# Olympic_data_analysis_using_PowerBi
 This GitHub repository contains the code and data for performing an in-depth analysis of Olympic data using Power BI. The dataset includes crucial details such as athlete names, gender, age, medals, and countries.
 
 # Data Processing
